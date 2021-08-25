@@ -1,10 +1,11 @@
 # DEX Candles Subgraph
 
 This subgraph tracks all the DEX trades with 5m/15m/1h/4h/1d/1w candles.
+Deployed on Thegraph [Query Subgraph](https://thegraph.com/legacy-explorer/subgraph/cafeswap/dexcandles)
 
 ## Protocols
 
-- [x] Cafeswap BSC
+- [x] Cafeswap BSC -- [Query Subgraph](https://thegraph.com/legacy-explorer/subgraph/cafeswap/dexcandles)
 
 
 ## Example
